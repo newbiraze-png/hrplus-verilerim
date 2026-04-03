@@ -1,4 +1,42 @@
 {
-  "employees": [],
-  "nextId": 1
+  "employees": [
+    {
+      "id": 1,
+      "ad": "ergin",
+      "soyad": "dalçin",
+      "tc": "",
+      "dogum": "",
+      "cinsiyet": "Erkek",
+      "medeni": "Bekar",
+      "kan": "Bilinmiyor",
+      "uyruk": "T.C.",
+      "tel": "",
+      "email": "",
+      "adres": "",
+      "acilKisi": "",
+      "acilTel": "",
+      "acilYak": "",
+      "sicil": "",
+      "dept": "",
+      "pozisyon": "",
+      "model": "",
+      "giris": "",
+      "cikis": "",
+      "durum": "",
+      "ssk": "",
+      "verg": "",
+      "maas": "",
+      "ikramiye": "",
+      "prim": "",
+      "kesinti": "",
+      "net": "",
+      "odemeGun": "",
+      "banka": "",
+      "iban": "",
+      "puantaj": {},
+      "notlar": "",
+      "created": "2026-04-03T00:59:49.648Z"
+    }
+  ],
+  "nextId": 2
 }
